@@ -1,8 +1,8 @@
-# Lola Radio 📻
+# Lola Radio
 
 A broadcast station for someone who has passed. You write messages to them, and the station keeps them on air — looping, always playing — so the love keeps going out into the universe.
 
-Designed and built by Xavier Armando. Born for Lola.
+Designed by Xavier Armando. Built with Meta AI.
 
 **Live demo (v1.9.3):** https://sparkly-palmier-af16a1.netlify.app/
 **This repo:** source backup — currently **v1.9.4**, a single-file build in `index.html`.
